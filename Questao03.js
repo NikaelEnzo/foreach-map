@@ -13,4 +13,4 @@ array.forEach(function(num){
     }
 })
 
-console.log(b)
+console.log(x)
