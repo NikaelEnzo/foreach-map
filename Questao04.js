@@ -11,4 +11,4 @@ array.forEach(function(num){
    soma += num
 })
 
-console.log(x)
+console.log(soma)
