@@ -5,10 +5,10 @@ soma de todos os números em um array?
 
 let array = [1,2,3,4,50];
 
-let x = 0
+let soma = 0
 
 array.forEach(function(num){
-   x += num
+   soma += num
 })
 
 console.log(x)
