@@ -8,6 +8,8 @@ let array = [1,2,3,4,5];
 let arrayNum = array.map(function(num){
     if (num % 2 == 1){
       return num * 2
-    } else { return array.splice(0,0) }
+    } else { 
+      return num
+     }
 })
 console.log(arrayNum)
